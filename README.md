@@ -4,6 +4,7 @@
 
 This SDK provides functionalities to batch transfer ETH and ERC-20 tokens efficiently on the Ethereum blockchain. 
 It helps streamline multi-recipient payments, making transactions faster and more cost-effective.
+This contract that is used is deployed on the Sepolia testnet and the contract address is 0xa3522023b2ce50edec77dfb73cca2c281f97e387.
 
 ## Features
 
