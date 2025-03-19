@@ -92,7 +92,7 @@ in the gasOptions field of the function.
 
 ## Security Considerations
 
-DO NOT expose your private key in public repositories. Use environment variables.
+DO NOT expose your private key when using this SDK.
 
 Gas costs: Batch transactions consume more gas, so estimate costs before execution.
 

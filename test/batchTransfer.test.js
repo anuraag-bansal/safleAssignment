@@ -1,9 +1,9 @@
 const { expect } = require("chai");
 const sinon = require("sinon");
 const { ethers } = require("ethers");
-const batchTransfer = require("./lib/web3.lib"); // Update this path
-const web3Util = require("./utils/web3.util");
-const globalLib = require("./lib/global.lib");
+const batchTransfer = require("../lib/web3.lib"); // Update this path
+const web3Util = require("../utils/web3.util");
+const globalLib = require("../lib/global.lib");
 
 describe("Batch Transfer Functions", function () {
     let providerMock, walletMock, contractMock;
